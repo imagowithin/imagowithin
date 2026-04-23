@@ -1,4 +1,9 @@
-## Hi there 👋
+## Forensic Analysis of Subject "imagowithin" (Aliicide)
+Project Overview: Case #21-Mérida
+Status: Ongoing Archival
+Subject Alias: iagoevangelizador/ imagowithin/ Aliicide / Ivan /
+Location: Mérida, Mexico
+Focus: Documentation of artistic decline, creative recycling, and systematic social engineering (2023–2026).
 
 <!--
 **imagowithin/imagowithin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
